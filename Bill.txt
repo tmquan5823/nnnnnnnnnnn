@@ -1,0 +1,21 @@
+
+	 =====================HOA DON======================
+                                                    26/12/2022
+Ma hoa Don: 2612220002
+Ten khach hang: Tran Minh Quan
+Dia chi giao hang: Da Nang
+Ma nhan vien: 10003          Ten Nhan Vien: Vu Van Nam
+--------------------------------------------------------------
+STT    Ten mon                  Gia       So luong  Thanh tien
+--------------------------------------------------------------
+1      Com chien hai san        30000     2              60000
+2      Com chien duong chau     30000     2              60000
+3      Nuoc Khoang              6000      2              12000
+4      Coca                     10000     2              20000
+--------------------------------------------------------------
+Tong gia mon an                                         152000
+Phi ship                                                 15000
+--------------------------------------------------------------
+TONG                                                    167000
+
+						Cam on quy khach!
